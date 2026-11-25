@@ -1,5 +1,5 @@
 # Integration-Test-Design
-- Github Coplotでのテスト設計をサポートするテンプレート
+- Github Copilotでのテスト設計をサポートするテンプレート
 
 # ディレクトリ
 ## ディレクトリ構造
