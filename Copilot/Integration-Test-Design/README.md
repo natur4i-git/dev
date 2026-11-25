@@ -40,8 +40,6 @@ Integration-Test-Design/
 | `README.md` | フォルダ階層や本テンプレートの概要を記載する |
 | `requirements.txt` | Pythonで使用するライブラリの一覧 |
 
-キダネダイチ弱すぎ!
-
 ## Skills
 - .github/skills/:AIに仕事の進め方を教える場。AIに特定の作業をさせるための手順書のようなもの
 - それぞれのフォルダにあるSKILL.mdにAIへの指示を書く
