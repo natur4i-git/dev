@@ -7,13 +7,42 @@
 │   │   └── 変更要求#2  
 │   └── 検証計画書 作成  
 │  
-└── 総合テストフェーズ
-    ├── 総合テスト計画書 作成  
-    ├── 総合テスト仕様書 作成  
-    ├── 総合テストスクリプト 作成  
-    ├── 総合テスト記録 作成  
-    ├── 総合テスト 実施  
-    ├── 総合テスト報告書 作成  
-    ├── トレーサビリティマトリクス 作成  
-    ├── ウォークスルー 準備  
-    └── ウォークスルー 実施  
+├── 総合テストフェーズ
+│   ├── 総合テスト計画書 作成  
+│   ├── 総合テスト仕様書 作成  
+│   ├── 総合テストスクリプト 作成  
+│   ├── 総合テスト記録 作成  
+│   ├── 総合テスト 実施
+│   ├── 総合テスト報告書 作成
+│   ├── トレーサビリティマトリクス 作成
+│   ├── ウォークスルー 準備
+│   └── ウォークスルー 実施
+
+
+Integration-Test-Design/
+│
+├── AGENTS.md
+│
+├── .github/
+│   └── skills/
+│       ├── specification-analysis/
+│       ├── document-analysis/
+│       ├── test-design/
+│       ├── excel-generation/
+│       └── test-review/
+│
+├── input/
+│   ├── specifications/
+│   ├── templates/
+│   └── guidelines/
+│
+├── intermediate/
+│
+├── output/
+│
+├── scripts/
+│   ├── common/
+│   └── validation/
+│
+├── requirements.txt
+└── README.md
