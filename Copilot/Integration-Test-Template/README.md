@@ -1,4 +1,6 @@
 # 総合テスト用プロジェクト管理
+
+```text
 総合テスト管理  
 │  
 ├── 計画フェーズ  
@@ -17,32 +19,4 @@
 │   ├── トレーサビリティマトリクス 作成
 │   ├── ウォークスルー 準備
 │   └── ウォークスルー 実施
-
-
-Integration-Test-Design/
-│
-├── AGENTS.md
-│
-├── .github/
-│   └── skills/
-│       ├── specification-analysis/
-│       ├── document-analysis/
-│       ├── test-design/
-│       ├── excel-generation/
-│       └── test-review/
-│
-├── input/
-│   ├── specifications/
-│   ├── templates/
-│   └── guidelines/
-│
-├── intermediate/
-│
-├── output/
-│
-├── scripts/
-│   ├── common/
-│   └── validation/
-│
-├── requirements.txt
-└── README.md
+```
